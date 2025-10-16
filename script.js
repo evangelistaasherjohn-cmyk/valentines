@@ -1,9 +1,9 @@
 const msgs = [
-    "Are you sure?",
-    "Are you really sure?",
+    "Are you sure pot?",
+    "Are you really sure potpot?",
     "Are you really really sure?",
     "Pretty pleaseeeee?",
-    "Pretty pretty pleaseeeee?",
+    "Pretty pretty pleaseeeee mag iyak ako?",
     "If you say no, I will be very sad...",
     "I will be very sad...",
     "I will be very very sad...",
