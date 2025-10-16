@@ -9,49 +9,43 @@ body {
     flex-direction: column;
 }
 
-.yusei-magic-regular {
-    font-family: "Yusei Magic", serif;
-    font-weight: 400;
-    font-style: normal;
-}
-
 .container {
     text-align: center;
 }
 
 h1 {
     font-size: 2.5em;
-    color: #A40606;
+    color: #d32f2f;
 }
 
 .buttons {
     margin-top: 20px;
 }
 
-.yes {
+.yes-button {
     font-size: 1.5em;
     padding: 10px 20px;
     margin-right: 10px;
-    background-color: #4ab74e;
+    background-color: #4caf50;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
 }
 
-.no {
+.no-button {
     font-size: 1.5em;
     padding: 10px 20px;
-    background-color: #F44336;
+    background-color: #f44336;
     color: white;
     border: none;
     border-radius: 5px;
     cursor: pointer;
-}
-
-.gif_container img {
+  }
+  
+  .gif_container img {
     max-width: 100%;
     height: auto;
     border-radius: 10px;
-    margin-top: 30px;
-}
+    margin-top: 20px;
+  }
